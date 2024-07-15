@@ -17,8 +17,8 @@
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->  DARufon04
-<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-FINALS-RUFON
+<!-- TODO: Change the zyx-0314 into your github username  --> DARufon04
+<!-- TODO: Change the WD-Template-Project into the same name of your folder --> WD-Finals-Rufon
 ![](https://visit-counter.vercel.app/counter.png?page=DARufon04/WD-Finals)
 
 ---
